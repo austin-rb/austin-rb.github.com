@@ -1,0 +1,169 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+
+$type-primary-heading: "league-gothic-1","league-gothic-2",sans-serif;
+$type-secondary-heading: "bello-pro-1","bello-pro-2",sans-serif;
+$type-body-font: "museo-sans-1","museo-sans-2",sans-serif;
+$rotation-amount: 8.4deg;
+$link-color: #b82b27;
+// $rotation-amount: 0deg;
+
+@mixin type-setting-primary {
+  font-family: $type-primary-heading;
+  color: #000;
+  font-size: 42px;
+  line-height: 42px;
+  text-transform: uppercase;
+  opacity: 0.7;
+}
+
+@mixin type-setting-secondary {
+  font-family: $type-secondary-heading;
+  font-size: 28px;
+  color: #000;
+  text-transform: lowercase;
+}
+
+@mixin type-setting-bodycopy {
+  font-family: $type-body-font;
+  font-size: 16px;
+  line-height: 26px;
+  color: #474544;
+}
+
+@mixin skew($rotation-amount) {
+  -webkit-transform: skewY($rotation-amount);
+  -moz-transform: skewY($rotation-amount);
+  -o-transform: skewY($rotation-amount);
+  -ms-transform: skewY($rotation-amount);
+  transform: skewY($rotation-amount);
+}
+
+body {
+  min-width: 890px;
+ background: #e7e2df url(/img/bg.jpg) repeat center top;
+  @include type-setting-bodycopy;
+}
+
+.container {
+  width: 940px;
+  margin: 0px auto;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+  
+  &:hover {
+    color: darken($link-color, 10%);
+  }
+}
+
+  
+p, ol, ul {
+  margin-bottom: 1.5em;
+}
+
+
+#header {
+  background: #c02c2a url(/img/red_bg.jpg) repeat center top;
+  padding: 170px 0 90px 0;
+  margin: -170px 0 90px;
+  overflow: hidden;
+  display:block;
+  height: 422px;
+  border-bottom: 18px solid rgba(80,0,0,0.6);
+  @include skew(-$rotation-amount);
+  
+  .container {
+    @include skew($rotation-amount);  
+  }
+  
+  #logo {
+    margin-top: 130px;
+    margin-left: 2px;
+    float:left;
+  }
+  
+  #next-meeting {
+    width: 300px;
+    margin-top: 84px;
+	  float: right;
+    @include skew(-$rotation-amount - 1);
+    
+    dt { 
+      @include type-setting-secondary;
+      color: #fff;
+      line-height: 31px;
+      opacity: 0.75;
+   }
+    
+    dd {
+      @include type-setting-primary;
+      margin-bottom:35px;
+    }
+  }
+}
+
+#content {
+
+  margin-bottom: 15em;
+  overflow: hidden;
+
+  #main-column {
+    float: right;
+    width: 540px;
+    margin-right: 80px;
+
+    .post {
+  
+      .post-header {
+        margin-bottom: 34px;
+  
+        h1 {
+          @include type-setting-primary;
+        }
+    
+        .pubdate {
+          @include type-setting-secondary;  
+          opacity: 0.3;
+          font-size: 18px;
+        }
+      
+      }
+
+    }
+
+  }
+  
+  #site-links {
+    float:left;
+    margin-top: 109px;
+    
+    li {
+      @include type-setting-secondary;
+      font-size: 23px;
+      margin-bottom: 30px;
+        
+      a {
+        background: url(/img/austinrb_sprite.png) no-repeat left top;
+        padding-left: 46px;      
+        line-height: 30px;
+        display: block;
+        
+        &.link-github { background-position: left -62px;}
+        &.link-archives { background-position: left -122px;}
+      }
+      
+      
+    }
+
+    
+  }
+
+
+}
