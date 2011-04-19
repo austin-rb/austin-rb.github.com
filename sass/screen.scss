@@ -1,7 +1,7 @@
 /* Welcome to Compass.
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
- * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+ * <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
 @import "compass/reset";
 
@@ -45,7 +45,7 @@ $link-color: #b82b27;
 
 body {
   min-width: 890px;
- background: #e7e2df url(/img/bg.jpg) repeat center top;
+ background: #e7e2df url(/images/bg.jpg) repeat center top;
   @include type-setting-bodycopy;
 }
 
@@ -70,7 +70,7 @@ p, ol, ul {
 
 
 #header {
-  background: #c02c2a url(/img/red_bg.jpg) repeat center top;
+  background: #c02c2a url(/images/bg-red.jpg) repeat center top;
   padding: 170px 0 90px 0;
   margin: -170px 0 90px;
   overflow: hidden;
@@ -105,6 +105,9 @@ p, ol, ul {
     dd {
       @include type-setting-primary;
       margin-bottom:35px;
+      a {
+        color: #000
+      }
     }
   }
 }
@@ -121,7 +124,7 @@ p, ol, ul {
 
     .post {
   
-      .post-header {
+      header {
         margin-bottom: 34px;
   
         h1 {
@@ -150,7 +153,7 @@ p, ol, ul {
       margin-bottom: 30px;
         
       a {
-        background: url(/img/austinrb_sprite.png) no-repeat left top;
+        background: url(/images/sprites.png) no-repeat left top;
         padding-left: 46px;      
         line-height: 30px;
         display: block;
@@ -164,6 +167,13 @@ p, ol, ul {
 
     
   }
-
-
 }
+
+footer {
+  #paravel {
+    margin-right: 10px;
+  }
+  
+  margin-bottom: 20px;
+}
+

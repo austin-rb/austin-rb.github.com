@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Archives
 ---
 
-{% for post in site.posts limit:1 %}
+{% for post in site.posts offset:1 %}
   <article id="{{ post.id }}" class="post latest">
     <header>
       <h1>{{ post.title }}</h1>

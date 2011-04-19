@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  {% if page.title %}
+    <title>{{ site.title }} / {{ page.title }}</title>
+  {% else %}
+    <title>{{ site.title }}</title>
+  {% endif %}
+  
+  <script type="text/javascript" src="http://use.typekit.com/osh5eli.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  
+  <link href="http://feeds.feedburner.com/austin-rb" rel="alternate" title="Tom Preston-Werner" type="application/atom+xml" />
+  <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+  <link href="/css/print.css" media="print" rel="stylesheet" type="text/css" />
+  <!--[if IE]>
+      <link href="/css/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body>
+
+<body>
+  <header id="header" data-role="header">
+    <div class="container">
+      <a href="/">
+        <img src="/images/logo.png" id="logo" alt="{{ site.title }}"/>
+      </a>
+
+      <dl id="next-meeting">
+        <dt>Next Meeting Date</dt>
+        <dd>
+          <a href="http://plancast.com/p/4ps7" title="Add to your Plancast" rel="nofollow">Thursday April 21<br/>7-9PM</a>
+        </dd>
+        <dt>Next Meeting Location</dt>
+        <dd>
+          <a href="http://maps.google.com/maps/place?client=safari&rls=en&oe=UTF-8&um=1&ie=UTF-8&q=norris+conference+center+austin&fb=1&gl=us&hq=norris+conference+center&hnear=Austin,+TX&cid=6576048118745809585" title="Norris Conference Center" rel="nofollow">Norris Conference<br/> Center - Austin</a>
+        </dd>
+          
+      </dl>
+    </div>
+  </header>
+  
+  <section id="content" data-role="content">
+    <div class="container">
+      <div id="main-column">
+        {{ content }}
+      </div>
+      
+      <nav id="site-links">
+        <ul>
+          <li><a href="http://twitter.com/austinrb" class="link-twitter">Follow us on Twitter</a></li>
+          <li><a href="http://github.com/austin-rb" class="link-github">Find us on Github</a></li>
+          {% if site.posts.size > 1 %}
+            <li><a href="/archives.html" class="link-archives">View Archives</a></li>
+          {% endif %}
+      </nav>
+    
+    </div>
+  </section>
+  
+  <footer>
+    <div class="container">
+      <span>
+        <a id="paravel" href="http://paravelinc.com/"><img src="/images/paravel.png" alt="Paravel Inc."/></a>
+        Austin.rb logo and website lovingly designed by <a href="http://paravelinc.com/">Paravel</a>
+      </span> 
+    </div>
+  </footer>
+</body>
+</html>
