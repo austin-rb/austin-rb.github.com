@@ -50,29 +50,31 @@ p, ol, ul { margin-bottom: 1.5em; }
 #header #next-meeting dd { font-family: "league-gothic-1", "league-gothic-2", sans-serif; color: #000; font-size: 42px; line-height: 42px; text-transform: uppercase; opacity: 0.7; margin-bottom: 35px; }
 /* line 108, ../sass/screen.scss */
 #header #next-meeting dd a { color: #000; }
+/* line 111, ../sass/screen.scss */
+#header #next-meeting dd a:hover { color: #fff; }
 
-/* line 115, ../sass/screen.scss */
+/* line 119, ../sass/screen.scss */
 #content { margin-bottom: 15em; overflow: hidden; }
-/* line 120, ../sass/screen.scss */
+/* line 124, ../sass/screen.scss */
 #content #main-column { float: right; width: 540px; margin-right: 80px; }
-/* line 127, ../sass/screen.scss */
+/* line 131, ../sass/screen.scss */
 #content #main-column .post header { margin-bottom: 34px; }
-/* line 130, ../sass/screen.scss */
-#content #main-column .post header h1 { font-family: "league-gothic-1", "league-gothic-2", sans-serif; color: #000; font-size: 42px; line-height: 42px; text-transform: uppercase; opacity: 0.7; }
 /* line 134, ../sass/screen.scss */
+#content #main-column .post header h1 { font-family: "league-gothic-1", "league-gothic-2", sans-serif; color: #000; font-size: 42px; line-height: 42px; text-transform: uppercase; opacity: 0.7; }
+/* line 138, ../sass/screen.scss */
 #content #main-column .post header .pubdate { font-family: "bello-pro-1", "bello-pro-2", sans-serif; font-size: 28px; color: #000; text-transform: lowercase; opacity: 0.3; font-size: 18px; }
-/* line 146, ../sass/screen.scss */
-#content #site-links { float: left; margin-top: 109px; }
 /* line 150, ../sass/screen.scss */
+#content #site-links { float: left; margin-top: 109px; }
+/* line 154, ../sass/screen.scss */
 #content #site-links li { font-family: "bello-pro-1", "bello-pro-2", sans-serif; font-size: 28px; color: #000; text-transform: lowercase; font-size: 23px; margin-bottom: 30px; }
-/* line 155, ../sass/screen.scss */
+/* line 159, ../sass/screen.scss */
 #content #site-links li a { background: url(/images/sprites.png) no-repeat left top; padding-left: 46px; line-height: 30px; display: block; }
-/* line 161, ../sass/screen.scss */
+/* line 165, ../sass/screen.scss */
 #content #site-links li a.link-github { background-position: left -62px; }
-/* line 162, ../sass/screen.scss */
+/* line 166, ../sass/screen.scss */
 #content #site-links li a.link-archives { background-position: left -122px; }
 
-/* line 172, ../sass/screen.scss */
+/* line 176, ../sass/screen.scss */
 footer { margin-bottom: 20px; }
-/* line 173, ../sass/screen.scss */
-footer #paravel { margin-right: 10px; }
+/* line 177, ../sass/screen.scss */
+footer #paravel { margin-right: 10px; vertical-align: -4px; }

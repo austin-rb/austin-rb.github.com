@@ -106,7 +106,11 @@ p, ol, ul {
       @include type-setting-primary;
       margin-bottom:35px;
       a {
-        color: #000
+        color: #000;
+        
+        &:hover { 
+          color: #fff; 
+        }
       }
     }
   }
@@ -172,6 +176,7 @@ p, ol, ul {
 footer {
   #paravel {
     margin-right: 10px;
+    vertical-align: -4px;
   }
   
   margin-bottom: 20px;
