@@ -120,6 +120,8 @@ p, ol, ul {
 
   margin-bottom: 15em;
   overflow: hidden;
+  clear: both;
+  display: block;
 
   #main-column {
     float: right;
@@ -175,6 +177,8 @@ p, ol, ul {
 
 footer {
   clear: both;
+  display: block;
+  overflow: hidden;
   #paravel {
     margin-right: 10px;
     vertical-align: -4px;
