@@ -174,12 +174,14 @@ p, ol, ul {
 }
 
 footer {
+  display: block;
   clear: both;
+  overflow: hidden;
+  margin-bottom: 20px;
+
   #paravel {
     margin-right: 10px;
     vertical-align: -4px;
   }
-  
-  margin-bottom: 20px;
 }
 
