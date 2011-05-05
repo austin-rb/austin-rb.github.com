@@ -1,6 +1,6 @@
 ---
 layout: post
-title: May Meeting - Charles Lowell "The Ruby Racer: embedding V8 Javascript interpreter into Ruby"
+title: "May Meeting - Charles Lowell \"The Ruby Racer: embedding V8 Javascript interpreter into Ruby\""
 date: 2011-5-5
 ---
 
