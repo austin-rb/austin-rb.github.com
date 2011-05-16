@@ -16,7 +16,7 @@ Charles will talk about [The Ruby Racer](https://github.com/cowboyd/therubyracer
 
 Next up will be Bill, presenting on [Typhoeus](https://github.com/dbalatero/typhoeus), a library named after the [mythical creature with 100 serpent heads](http://en.wikipedia.org/wiki/Typhon), that manages the execution of parallel HTTP requests like a champ.
 
->> Typhoeus leverages a standard Unix tool (`curl`) to overcome one area where Ruby is inherently deficient (concurrency) within a specific application context: HTTP client networking.  What's more, it does so in an idiomatic way. In short, Typhoeus provides a great example of how to effectively leverage a ubiquitous yet powerful native library in a transparent and Ruby-friendly way.
+> Typhoeus leverages a standard Unix tool (`curl`) to overcome one area where Ruby is inherently deficient (concurrency) within a specific application context: HTTP client networking.  What's more, it does so in an idiomatic way. In short, Typhoeus provides a great example of how to effectively leverage a ubiquitous yet powerful native library in a transparent and Ruby-friendly way.
 
 Afterwards, we'll be heading to [Sherlock's Baker Street Pub](http://gowalla.com/spots/58416) for socialization practice.
 

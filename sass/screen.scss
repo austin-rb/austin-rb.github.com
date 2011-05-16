@@ -143,9 +143,15 @@ strong {
           opacity: 0.3;
           font-size: 18px;
         }
-      
+        
       }
-
+    
+      blockquote {
+        color: #545454;
+        font-style: italic;
+        border-left: 3px #aaa solid;
+        padding-left: 1em;
+      }
     }
 
   }
