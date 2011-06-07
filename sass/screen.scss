@@ -170,7 +170,7 @@ strong {
         padding-left: 46px;      
         line-height: 30px;
         display: block;
-        
+        &.link-speaker { background-position: left -184px;}
         &.link-github { background-position: left -62px;}
         &.link-archives { background-position: left -122px;}
       }
