@@ -8,4 +8,6 @@ In these dog days of summer, at the peak of conference season, with heated deadl
 
 Some Ideas: [Ohm](http://ohm.keyvalue.org/), [Resque](https://github.com/defunkt/resque), [Fog](http://fog.io/), [Hashie](http://intridea.com/2009/11/12/hashie-the-hash-toolkit?blog=company), [HTTParty](http://railstips.org/blog/archives/2008/07/29/it-s-an-httparty-and-everyone-is-invited/), [Spork](https://github.com/timcharper/spork), [Guard](https://github.com/guard/guard), [Event Machine](http://rubyeventmachine.com/), [Capybara](https://github.com/jnicklas/capybara), [Time Cop](https://github.com/jtrupiano/timecop), [Keytar](https://github.com/schneems/keytar).
 
+Tweet [@austinrb](https://twitter.com/austinrb) if you have a Gem in mind, and we'll save a slot for you.
+
 Same time and place as always: [Norris Conference Center](http://gowalla.com/spots/189667) from 7 - 9. We'll be taking the party to [Sherlocke's Baker Street Pub](http://gowalla.com/spots/58416) afterwards. Looking forward to seeing y'all there!
