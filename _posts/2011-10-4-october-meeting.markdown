@@ -4,7 +4,7 @@ title: "October Meeting - Top Down/Bottom up"
 date: 2011-10-4
 ---
 
-### _tl;dr_ Our next meeting will be on Monday October 17 from [7:30-9:30 at Cospace](http://plancast.com/p/7xbb). Be sure to bring your laptop!
+**_tl;dr_ Our next meeting will be on Monday October 17 from [7:30-9:30 at Cospace](http://plancast.com/p/7xbb). Be sure to bring your laptop!**
 
 The theme for October's meeting, "Top Down/Bottom Up", comes courtesy of this month's speaker [Chris Continanza](http://chriscontinanza.com/). His talk will show us how to build a Heroku Add-On--and we'll get to that in just a moment--but first I'd like to talk about this theme in the context of Austin.RB.
 
