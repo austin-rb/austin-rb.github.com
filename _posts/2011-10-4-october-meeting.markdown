@@ -12,7 +12,7 @@ It's time for us to re-evaluate Austin.RB from the top down and bottom up. Austi
 
 Getting back to those roots, I'm excited to announce a change in venue and format. For our October meeting, we'll be meeting at [Cospace](http://cospaceatx.com/). I fell in love with this venue at the last [Friday Night Hacks](http://fridaynighthacks001.eventbrite.com/); it's more intimate than the "conference talk" setup, and that's perfect for the new format.
 
-In the first hour, we'll be flexing our coding chops as we pair up to work through a [code kata](http://en.wikipedia.org/wiki/Kata_(programming)). I think there's immense value in the focus of katas, as well as the experience of working with someone (especially for the first time).
+In the first hour, we'll be flexing our coding chops as we pair up to work through a <a href='http://en.wikipedia.org/wiki/Kata_(programming)'>code kata</a>. I think there's immense value in the focus of katas, as well as the experience of working with someone (especially for the first time).
 
 And--as mentioned previously--in the second hour, we'll have the distinct pleasure of welcoming back Austin's prodigal son, [Chris Continanza](http://chriscontinanza.com/) of [Heroku](http://www.heroku.com/). Here's a look at what's in store:
 
