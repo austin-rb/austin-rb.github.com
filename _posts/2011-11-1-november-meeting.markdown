@@ -11,18 +11,18 @@ And since it was so successful last time, we'll be pairing off to work through a
 Anyway, let's hear more about Trevor's talk, eh?
 
 > By now, most people have had to make some kind of dashboard. They present some interesting challenges. 
-
+>
 > We will be imagining that the fictional business of Rufus' Pig Foot Emporium has hired us to create a dashboard for their flagship OinkBot Global Pork Statistical Service™, because it gives us an opportunity to create a lightweight gem making use of Redis.  We'll put together a library called RedisCacheable to add Redis-backed caching behavior to arbitrary Ruby classes in an organized and direct way.   
-
+>
 > Along the way, we'll have a practical look at/touch on:
-
-> - Redis, an excellent and simple data store
-> - Some metaprogramming techniques used for mixins
-> - Basics of gem structure and construction: 
->   - Using Bundler to make gem stubs
->   - Creating config objects available in base classes
->   - The virtues of namespaces
-> - Test-driven development with RSpec
+>
+> • Redis, an excellent and simple data store
+> • Some metaprogramming techniques used for mixins
+> • Basics of gem structure and construction: 
+>   • Using Bundler to make gem stubs
+>   • Creating config objects available in base classes
+>   • The virtues of namespaces
+> • Test-driven development with RSpec
 
 ---
 
