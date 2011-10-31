@@ -16,13 +16,13 @@ Anyway, let's hear more about Trevor's talk, eh?
 >
 > Along the way, we'll have a practical look at/touch on:
 >
-> • Redis, an excellent and simple data store  
+> • [Redis](http://redis.io/), an excellent and simple data store  
 > • Some metaprogramming techniques used for mixins  
 > • Basics of gem structure and construction:  
->   • Using Bundler to make gem stubs  
+>   • Using [Bundler](http://gembundler.com/) to make gem stubs  
 >   • Creating config objects available in base classes  
 >   • The virtues of namespaces  
-> • Test-driven development with RSpec  
+> • Test-driven development with [RSpec](http://rspec.info/)  
 >
 > [Trevor Rosen](https://github.com/trevrosen) is a software developer and Austin native whose meandering journey of coding and interactive design has taken him through politics, advertising, consulting, and several startups.  As a developer working full-time on [Metasploit](http://metasploit.com/), he's thrilled to spend his days with some of the best hackers on the planet, helping to keep you from getting pwned.
 
