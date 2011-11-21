@@ -1,3 +1,9 @@
+permalink: pretty
+markdown: redcarpet
+pygments: true
+
+exclude: ["CNAME", "README", "Gemfile", "Gemfile.lock", "Procfile", "config.rb", "sass"]
+
 title: Austin.RB
 url: http://austinrb.org
 email: info@austinrb.org
