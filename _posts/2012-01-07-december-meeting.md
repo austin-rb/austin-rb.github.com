@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "December Meeting - Matthew Swain & Intoduction to Chef"
+title: "January Meeting - Matthew Swain & Intoduction to Chef"
 date: 2012-01-07
 ---
 
