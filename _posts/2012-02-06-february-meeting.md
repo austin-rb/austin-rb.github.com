@@ -5,8 +5,7 @@ date: 2012-02-06
 ---
 
 Good news! Our next meeting will be on Tuesday Feb 21 from
-[7:30-9:30 at Cospace](http://plancast.com/p/9qxv). [Charles Lowell](https://twitter.com/cowboyd)
-
+[7:30-9:30 at Cospace](http://plancast.com/p/9qxv). [Charles Lowell](https://twitter.com/cowboyd) 
 is gonna ROCK OUR FREAKIN' MINDS WITH HIS CRAZY JENKINS KNOWLEDGE!  WOOOOOO!
 
 We're also completely stoked that [The Frontside](http://www.thefrontside.net/)!
