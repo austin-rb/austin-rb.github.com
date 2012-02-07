@@ -8,13 +8,15 @@ Good news! Our next meeting will be on Tuesday Feb 21 from
 [7:30-9:30 at Cospace](http://plancast.com/p/9qxv). [Charles Lowell](https://twitter.com/cowboyd) 
 is gonna ROCK OUR FREAKIN' MINDS WITH HIS CRAZY JENKINS KNOWLEDGE!  WOOOOOO!
 
-We're also completely stoked that [The Frontside](http://www.thefrontside.net/)!
+We're also completely stoked that [The Frontside](http://www.thefrontside.net/)
 is sponsoring our February meeting - if your backside is strong but your
 frontside is weak, call The Frontside today!
 
 After the presentation we'll be pairing off to work through a brand new <a href='http://en.wikipedia.org/wiki/Kata_(programming)'>code kata</a>. Be sure to bring your laptop!
 
 As is our way, after the pairing we will head for drinks at [Sherlock's Baker Street Pub](http://maps.google.com/maps/place?q=sherlocks+baker+street+pub&cid=13119996996392273995).
+
+And straight from the Charles' mouth about his talk:
 
 > Over ten years after Martin Fowler first coined the term, continuous
 > integration isn't something controversial. Like testing, it might not be
@@ -30,7 +32,7 @@ As is our way, after the pairing we will head for drinks at [Sherlock's Baker St
 > in Java) with nothing Ruby code.
 >
 > If you aren't getting the most out of your CI tools, or you aren't
-> *gasp* using a CI tool at all, then it is important that you attend!
+> using a CI tool at all, then it is important that you attend!
 > Implementing a proper CI is a game changer to the way you and your team
 > develop software.
 >
