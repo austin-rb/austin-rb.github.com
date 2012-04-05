@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "April Meeting - SNMP Device Emulation & Ruby with Brian Gugliemetti"
+title: "April Meeting - SNMP Device Emulation &amp; Ruby with Brian Gugliemetti"
 date: 2012-04-03
 ---
 
