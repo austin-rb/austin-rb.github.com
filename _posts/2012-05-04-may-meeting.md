@@ -11,7 +11,7 @@ month: **May 9**, from [7:30-9:30 at Cospace](http://plancast.com/p/ba7e).
 Our talk will be from [Michael May](https://twitter.com/ehm_may) of 
 [Power Smart Labs](https://twitter.com/PowerSmartLabs).
 
-Happily, [Capforward](http://www.cabforward.com/) will be sponsoring our
+Happily, [CapForward](http://www.cabforward.com/) will be sponsoring our
 April meeting. They are a Ruby on Rails design, development and
 training company located in beautiful Austin, Texas
 
