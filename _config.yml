@@ -6,7 +6,7 @@ exclude: ["CNAME", "README", "Gemfile", "Gemfile.lock", "Procfile", "config.rb",
 
 title: Austin.RB
 url: http://austinrb.org
-email: info@austinrb.org
+email: ttyrrell+austinrb@gmail.com
 meeting:
   when:
     date: "Wednesday, May 9"
