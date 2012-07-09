@@ -16,7 +16,7 @@ Bio:
 Ethan Waldo has been writing in Ruby and the framework that must not be named for many years now.  Although most of his extra curricular time is occupied by a 6 month old, he also likes to experiment with other languages excluding java and python currently.  Whenever free time presents itself Ethan also likes playing his PRS SC 58 or the latest blockbuster video game.
 
 
-Thanks Capital Factory for sponsoring this months meeting with food and space!
+Thanks [Capital Factory](http://www.capitalfactory.com) for sponsoring this months meeting with food and space!
 
 New Location:
 
