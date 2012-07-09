@@ -19,9 +19,13 @@ Ethan Waldo has been writing in Ruby and the framework that must not be named fo
 Thanks Capital Factory for sponsoring this months meeting with food and space!
 
 New Location:
-Capital Factory
+
+[Capital Factory](http://www.capitalfactory.com)
+
 Omni Hotel
+
 701 Brazos Street
+
 16th Floor
 
-As custom... we will head to B.D. Riley's for socialization practice afterwards! 
+As is our custom... we will head to B.D. Riley's for socialization practice afterwards! 
