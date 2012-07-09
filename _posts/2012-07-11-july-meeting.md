@@ -21,11 +21,6 @@ Thanks Capital Factory for sponsoring this months meeting with food and space!
 New Location:
 
 [Capital Factory](http://www.capitalfactory.com)
-
-Omni Hotel
-
-701 Brazos Street
-
-16th Floor
+Omni Hotel / 701 Brazos Street / 16th Floor
 
 As is our custom... we will head to B.D. Riley's for socialization practice afterwards! 
