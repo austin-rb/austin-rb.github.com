@@ -11,7 +11,6 @@ date: 2012-09-28
 **Location:** Thanks again to [Capital Factory](http://www.capitalfactory.com/) for providing the space for this month's meeting! You can find them in the 16th floor of the Omni Hotel, downtown at 701 Brazos St.
 
 We’ll also be pairing off to work through a
-[code kata](http://en.wikipedia.org/wiki/Kata_(programming)
-). You’ll definitely want to remember your laptop.
+[code kata](http://en.wikipedia.org/wiki/Kata_%28programming%29). You’ll definitely want to remember your laptop.
 
 We'll be heading to B.D. Riley's afterwards for socialization practice. See y'all there!
