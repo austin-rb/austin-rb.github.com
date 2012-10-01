@@ -4,6 +4,10 @@ title: "October Meeting - iOS development with RubyMotion"
 date: 2012-09-28
 ---
 
+**Austin Startup Week:** The October meeting will be part of [Austin
+Startup Week](http://www.atxstartupweek.com/). Check out
+their site for other great tech events happening in Austin.
+
 **Synopsis:** [RubyMotion](http://www.rubymotion.com/) has been climbing the charts in both new developers as well as established companies taking it on for their iOS development needs. The speed of development, growing community surrounding it and the ever expanding list of gems developed to supplement RubyMotion makes this alternative to the standard Objective-C method for iOS development a real contender. In this talk, we will see the pros and cons of adopting RubyMotion for your iOS development needs as well as take a walk through the creation of a real RubyMotion application exploring various tools that make development even easier.
 
 **Bio:** David Brear is a Rails developer at [Spiceworks](http://www.spiceworks.com/jobs) and, as an avid opponent of anything relating to Objective-C, has been dabbling with RubyMotion since it first came on the scene. David splits his time between RubyMotion, Rails projects and fiddling with algorithmic puzzles in Python.
