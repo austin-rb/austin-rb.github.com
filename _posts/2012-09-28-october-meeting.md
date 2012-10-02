@@ -17,4 +17,4 @@ their site for other great tech events happening in Austin.
 We’ll also be pairing off to work through a
 [code kata](http://en.wikipedia.org/wiki/Kata_%28programming%29). You’ll definitely want to remember your laptop.
 
-We'll be heading to B.D. Riley's afterwards for socialization practice. See y'all there!
+We'll be heading to 6th Street afterwards for socialization practice. See y'all there!
