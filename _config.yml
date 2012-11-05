@@ -6,12 +6,11 @@ exclude: ["CNAME", "README", "Gemfile", "Gemfile.lock", "Procfile", "config.rb",
 
 title: Austin.RB
 url: http://austinrb.org
-email: ttyrrell+austinrb@gmail.com
+email: trevor+austinrb@catapult-creative.com
 meeting:
   when:
-    date: "Wednesday, October 10"
+    date: "Wednesday, November 14"
     time: "7:30-9:30pm"
-    url: "http://plancast.com/p/d1vz"
   where:
     location: "Capital Factory"
     url: "http://www.capitalfactory.com/"
