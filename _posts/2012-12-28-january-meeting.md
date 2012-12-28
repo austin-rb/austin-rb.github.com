@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "January Meeting - The 12-factor App"
-date: 2013-01-07
+date: 2012-12-28
 ---
 
 Fellow Rubyists,
