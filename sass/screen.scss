@@ -57,13 +57,13 @@ body {
 a {
   color: $link-color;
   text-decoration: none;
-  
+
   &:hover {
     color: darken($link-color, 10%);
   }
 }
 
-  
+
 p, ol, ul {
   margin-bottom: 1.5em;
 }
@@ -81,38 +81,38 @@ strong {
   height: 422px;
   border-bottom: 18px solid rgba(80,0,0,0.6);
   @include skew(-$rotation-amount);
-  
+
   .container {
-    @include skew($rotation-amount);  
+    @include skew($rotation-amount);
   }
-  
+
   #logo {
     margin-top: 130px;
     margin-left: 2px;
     float:left;
   }
-  
+
   #next-meeting {
     width: 330px;
     margin-top: 84px;
 	  float: right;
     @include skew(-$rotation-amount - 1);
-    
-    dt { 
+
+    dt {
       @include type-setting-secondary;
       color: #fff;
       line-height: 31px;
       opacity: 0.75;
    }
-    
+
     dd {
       @include type-setting-primary;
       margin-bottom:35px;
       a {
         color: #000;
-        
-        &:hover { 
-          color: #fff; 
+
+        &:hover {
+          color: #fff;
         }
       }
     }
@@ -130,22 +130,34 @@ strong {
     margin-right: 80px;
 
     .post {
-  
+
       header {
         margin-bottom: 34px;
-  
+
         h1 {
           @include type-setting-primary;
         }
-    
+
         .pubdate {
-          @include type-setting-secondary;  
+          @include type-setting-secondary;
           opacity: 0.3;
           font-size: 18px;
         }
-        
       }
-    
+
+      h2 {
+        font-size: 1.5em;
+      }
+
+      h3 {
+        font-size: 1.33em;
+      }
+
+      h2, h3, h4, h5, h6 {
+        font-weight: bold;
+        margin: 1em 0;
+      }
+
       blockquote {
         color: #545454;
         font-style: italic;
@@ -155,30 +167,30 @@ strong {
     }
 
   }
-  
+
   #site-links {
     float:left;
     margin-top: 109px;
-    
+
     li {
       @include type-setting-secondary;
       font-size: 23px;
       margin-bottom: 30px;
-        
+
       a {
         background: url(/images/sprites.png) no-repeat left top;
-        padding-left: 46px;      
+        padding-left: 46px;
         line-height: 30px;
         display: block;
         &.link-speaker { background-position: left -184px;}
         &.link-github { background-position: left -62px;}
         &.link-archives { background-position: left -122px;}
       }
-      
-      
+
+
     }
 
-    
+
   }
 }
 

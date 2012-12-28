@@ -1,10 +1,10 @@
-source :gemcutter
+source 'https://rubygems.org'
 
 gem 'jekyll'
 gem 'redcarpet'
 
 group :development do
-  gem 'foreman'
   gem 'compass'
+  gem 'foreman'
   gem 'rb-fchange'
 end
