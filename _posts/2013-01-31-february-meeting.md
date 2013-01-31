@@ -6,7 +6,7 @@ date: 2013-01-31
 
 Texan Rubyists (and welcome visitors),
 
-Our next meeting will be next Monday, **February 5th**, from **7:00-9:00pm** at
+Our next meeting will be next Monday, **February 4th**, from **7:00-9:00pm** at
 [Capital Factory][CF] downtown. Our talk will be from [Ben Hamill][BH] of
 [Return Path][RP] on Building API Client Gems.
 
