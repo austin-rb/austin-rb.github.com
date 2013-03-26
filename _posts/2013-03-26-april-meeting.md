@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "April Meeting - Offensive Ruby 1.5"
-date: 2013-03-26
+date: 2013-04-01
 ---
 
 Texan Rubyists (and welcome visitors),
@@ -33,8 +33,7 @@ source security tools.
 
 ### Bio
 
-[@todb](http://twitter.com/todb)
-Tod Beardsley is the Engineering Manager for the Metasploit Project, the
+[Tod Beardsley][TB] is the Engineering Manager for the Metasploit Project, the
 world-renowned open source penetration testing platform. He has over
 twenty years of hands-on security knowledge, reaching back to the
 halcyon days of 2400 baud textfile BBSes and in-band telephony
