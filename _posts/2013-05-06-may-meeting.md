@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "May Meeting - Networks with RubyFANN"
+title: "May Meeting - Neural Networks with RubyFANN"
 date: 2013-05-06
 ---
 
