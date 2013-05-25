@@ -40,8 +40,8 @@ also consults on team-building, Agile process, and UI development with
 responsive, semantic CSS and HTML5. Outside of his role as a software
 engineer, Matt is a published author, with two horror novels on the
 shelves and a sci-fi adventure out later this year. He blogs
-(infrequently) about software at http://code.digimonkey.com, and about
-writing and his novels at http://mepatterson.net.
+(infrequently) about software at [http://code.digimonkey.com](http://code.digimonkey.com), and about
+writing and his novels at [http://mepatterson.net][MP].
 
 ### Kata
 
