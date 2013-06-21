@@ -9,7 +9,7 @@ Our next meeting will be Monday, **July 1st**, from **7:00-9:00pm** at
 [Capital Factory][CF] downtown. Our talk will be from [Scott Bellware][SB].
 
  [CF]: http://www.capitalfactory.com/about/contact/
- [SB]: http://http://aptus.io/
+ [SB]: http://aptus.io/
 
 ### Synopsis
 
