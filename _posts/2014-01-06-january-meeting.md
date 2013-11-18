@@ -5,7 +5,7 @@ date: 2014-01-06
 ---
 
 Our next meeting will be Monday, **January 6th**, from **7:00-9:00pm** at
-[Capital Factory][CF] downtown. Our talk will be from [Trevor Rosen][SP]).
+[Capital Factory][CF] downtown. Our talk will be from [Trevor Rosen][SP].
 
  [CF]: http://www.capitalfactory.com/about/contact/
  [SP]: http://twitter.com/trevrosen
