@@ -10,8 +10,7 @@ Watch on twitter @austinrb for the url tonight!
 Install the screen sharing app [ScreenHero](http://www.screenhero) and we will still do a kata
 
 
-~~Our next meeting will be Tuesday, **March 3rd**, from **7:00-9:00pm** at
-[Capital Factory][CF] downtown.~~
+<del>Our next meeting will be Tuesday, **March 3rd**, from **7:00-9:00pm** at [Capital Factory][CF] downtown.</del>
 
  [CF]: http://www.capitalfactory.com/about/contact/
 
