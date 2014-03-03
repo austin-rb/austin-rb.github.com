@@ -4,8 +4,14 @@ title: "March Meeting - Becoming a Better Developer through Katas"
 date: 2014-03-03
 ---
 
-Our next meeting will be Tuesday, **March 3rd**, from **7:00-9:00pm** at
-[Capital Factory][CF] downtown.
+# Meeting Cancelled ... but lets meet on Google Hangouts! 
+Watch on twitter @austinrb for the url tonight!
+
+Install the screen sharing app [ScreenHero](http://www.screenhero) and we will still do a kata
+
+
+~~Our next meeting will be Tuesday, **March 3rd**, from **7:00-9:00pm** at
+[Capital Factory][CF] downtown.~~
 
  [CF]: http://www.capitalfactory.com/about/contact/
 
