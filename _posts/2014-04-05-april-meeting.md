@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "April Meeting - From SOLID to SLIPP
-date: 2014-04-05
+date: 2014-04-07
 ---
 
-Our next meeting will be Monday, **April 5rd**, from **7:00-9:00pm** at [Capital Factory][CF] downtown.
+Our next meeting will be Monday, **April 7th**, from **7:00-9:00pm** at [Capital Factory][CF] downtown.
 
  [CF]: http://www.capitalfactory.com/about/contact/
 
