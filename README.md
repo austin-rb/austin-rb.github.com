@@ -11,7 +11,7 @@ $ open http://localhost:4000/
 ## Updating For New Meetings
 
 * Create a new file in the `_posts` directory, with YAML front matter along the lines of:
-  
+
   ``` yaml
   layout: post
   title: "January Meeting - A Title Goes Here"
@@ -25,10 +25,9 @@ $ open http://localhost:4000/
 
 * `git push`
 
-## Contact
+## Group Contacts
 
-Mattt Thompson
-
-- http://github.com/mattt
-- http://twitter.com/mattt
-- mattt@austinrb.org
+ - Brad Fults (brad@austinrb.org)
+ - Mando Escamilla (mando.escamilla@gmail.com)
+ - Tim Tyrell (ttyrrell@gmail.com)
+ - Trevor Rosen (trevor@catapult-creative.com)
