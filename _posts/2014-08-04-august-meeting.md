@@ -15,7 +15,7 @@ Dart, a language designed by Google and recently approved by the Ecma, is build 
 
 ### Bio
 
-Jesse Riggins & Nola Stowe - Maybe we'll think of something clever to put here, but we are best experienced over beers at socialization practice. :) 
+Jesse Riggins & Nola Stowe - Maybe we'll think of something clever to put here, but we are best experienced over beers (or root beer) at socialization practice. :) 
 
 Beers and socialization practice to follow at HandleBar on 5th street.
 
