@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August Meeting - Dart - Another Tool in the Toolbox!
+title: "August Meeting - Dart: Another Tool in the Toolbox!"
 date: 2014-08-04
 ---
 
