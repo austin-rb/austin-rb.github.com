@@ -19,13 +19,17 @@ Nathan is a Senior Software Engineer and Team Lead at WellMatch. He has been wri
 
 Beers and socialization practice to follow.
 
+### Now on Meetup !! 
+
+For those that prefer to get notices for this meeting by Meetup, we now have a [meetup page](http://www.meetup.com/austinrb/) for AustinRB :) 
+
 ### Location
 
 Thanks again to [Capital Factory](http://www.capitalfactory.com/) for providing
 the space for this month’s meeting! You can find them on the 16th floor of the
 Austin Centre business tower, downtown at 701 Brazos Street.
 
-Thanks to [Thoughtbot](http://www.thoughtbot.com) for sponsoring our Meetup page.
+Thanks to [Thoughtbot](http://www.thoughtbot.com) for sponsoring the [AustinRB Meetup](http://www.meetup.com/austinrb/) page.
 
 We’ll see y’all there!
 
