@@ -13,6 +13,8 @@ Our next meeting will be Tuesday, **September 2th**, from **7:00-9:00pm** at [Ca
 
 These days, volumes of blog posts and screencasts are available to teach aspiring rubyists how to test. However, explanations for why we test often only scratch the surface. Let's put the very concept of testing itself under the microscope, and uncover the basic requirements that feed into every test we write.
 
+For the Kata portion of the meetup, Nola will walk us through a fun refactoring kata.
+
 ### Bio
 
 Nathan is a Senior Software Engineer and Team Lead at WellMatch. He has been writing software professionally for 10 years, specializing in domain driven design, architecture, and systems engineering. His languages include Ruby, C, and Javascript, and has worked extensively with the Ruby on Rails web framework. 
